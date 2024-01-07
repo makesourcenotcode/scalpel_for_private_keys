@@ -1,13 +1,11 @@
 === SUMMARY ===
 
+version: 1.0.1
+
 Scalpel was/is a useful data carving tool both for purposes of digital forensics
 and helping regular folks recover accidentally deleted data. While it supports a
 lot of data types/formats it doesn't yet support any kinds of deleted private
 key data. If you accidentally deleted a private key file maybe we can help.
-
-=== VERSION ===
-
-1.0.0
 
 === USAGE ===
 
@@ -39,8 +37,9 @@ people with reliable Internet connections. Learn more at:
 https://makesourcenotcode.github.io/freedom_respecting_technology.html
 
 It's (admittedly small) Open Knowledge Set consists of:
-* the main program configuration/database file scalpel_for_private_keys.conf
-* the documentation / Help Information Set consisting of this file
+* the main Scalpel configuration file scalpel_for_private_keys.conf
+* the source / built form of the documentation / Help Information Set consisting
+  of this README.scalpel_for_private_keys_help_information file
 
 Both are released to the Public Domain.
 
@@ -72,4 +71,5 @@ key data!
 
 === CHANGELOG ===
 
+v1.0.1: minor documentation improvements
 v1.0.0: initial implementation
