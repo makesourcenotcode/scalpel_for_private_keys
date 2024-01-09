@@ -1,6 +1,7 @@
 === SUMMARY ===
 
-version: 1.0.1
+version: 1.0.2
+home: https://github.com/makesourcenotcode/scalpel_for_private_keys
 
 Scalpel was/is a useful data carving tool both for purposes of digital forensics
 and helping regular folks recover accidentally deleted data. While it supports a
@@ -71,5 +72,6 @@ key data!
 
 === CHANGELOG ===
 
+v1.0.2: minor documentation improvement
 v1.0.1: minor documentation improvements
 v1.0.0: initial implementation
